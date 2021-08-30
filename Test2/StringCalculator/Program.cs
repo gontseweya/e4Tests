@@ -27,15 +27,15 @@ namespace StringCalculator
                 throw new InvalidOperationException($"negatives not allowed : {negativesCount}");
             }
                 
-            var numbers = GetNumbers(input);
+            var result = GetNumbers(input);
 
-            if(numbers.Length == 1)
+            if(result.delimeterCount > 1 && result.numbers.Length == 1)
             {
                 Console.WriteLine("Please provide more than one number");
                 return;
             }
 
-            Console.WriteLine($"The added number equal to {AddNumbers(numbers)}");
+            Console.WriteLine($"The added number equal to {AddNumbers(result.numbers)}");
 
 
         }
@@ -43,12 +43,12 @@ namespace StringCalculator
 
 
 
-        private static string[] GetNumbers(string value)
+        private static (int delimeterCount, string[] numbers) GetNumbers(string value)
         {
             var input = new StringBuilder(value);
-
             var newlineDelemeter = "\\n";
             string changedDelimeter = string.Empty;
+            int delimeterCount = 0;
 
             if (value.StartsWith("//"))
             {
@@ -59,14 +59,29 @@ namespace StringCalculator
                 input.Remove(0, 1);
             }
 
-            if(changedDelimeter != string.Empty)
+            if (value.Contains(","))
             {
-                input.Replace(changedDelimeter, ",");
+                delimeterCount++;
             }
 
-            input.Replace(newlineDelemeter, ",");
+            if (changedDelimeter != string.Empty)
+            {
+                input.Replace(changedDelimeter, ",");
+                delimeterCount++;
+            }
 
-            return input.ToString().Split(',');
+            if(value.Contains("\\n"))
+            {
+                input.Replace(newlineDelemeter, ",");
+                delimeterCount++;
+            }
+
+            var inputResult = input.ToString().Split(',');
+
+            var newlist = inputResult.ToList().Where(x => x != string.Empty).ToArray();
+
+
+            return (delimeterCount, newlist);
         }
 
         private static int AddNumbers(params string[] arguments)
