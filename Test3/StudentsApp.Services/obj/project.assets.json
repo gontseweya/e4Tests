@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bbdnet2181\\source\\repos\\Test3\\StudentsApp.Services\\StudentsApp.Services.csproj",
+      "projectUniqueName": "C:\\Users\\bbdnet2181\\source\\repos\\E4 Strategic\\Test3\\StudentsApp.Services\\StudentsApp.Services.csproj",
       "projectName": "StudentsApp.Services",
-      "projectPath": "C:\\Users\\bbdnet2181\\source\\repos\\Test3\\StudentsApp.Services\\StudentsApp.Services.csproj",
+      "projectPath": "C:\\Users\\bbdnet2181\\source\\repos\\E4 Strategic\\Test3\\StudentsApp.Services\\StudentsApp.Services.csproj",
       "packagesPath": "C:\\Users\\bbdnet2181\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bbdnet2181\\source\\repos\\Test3\\StudentsApp.Services\\obj\\",
+      "outputPath": "C:\\Users\\bbdnet2181\\source\\repos\\E4 Strategic\\Test3\\StudentsApp.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -61,8 +61,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\bbdnet2181\\source\\repos\\Test3\\StudentsApp.Persistence\\StudentsApp.Persistence.csproj": {
-              "projectPath": "C:\\Users\\bbdnet2181\\source\\repos\\Test3\\StudentsApp.Persistence\\StudentsApp.Persistence.csproj"
+            "C:\\Users\\bbdnet2181\\source\\repos\\E4 Strategic\\Test3\\StudentsApp.Persistence\\StudentsApp.Persistence.csproj": {
+              "projectPath": "C:\\Users\\bbdnet2181\\source\\repos\\E4 Strategic\\Test3\\StudentsApp.Persistence\\StudentsApp.Persistence.csproj"
             }
           }
         }

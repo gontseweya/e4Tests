@@ -42,7 +42,7 @@ namespace StudentsApp.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutStudent(long id, Student student)
+        public async Task<IActionResult> PutStudent(int id, Student student)
         {
             if (id != student.StudentId)
             {
@@ -53,7 +53,7 @@ namespace StudentsApp.Controllers
             {
                 await Task.Run(() => _studentService.Update(student));
             }
-            catch (DbUpdateConcurrencyException)
+            catch (Exception)
             {
                 if (!StudentExists(id))
                 {
@@ -84,9 +84,9 @@ namespace StudentsApp.Controllers
             return NoContent();
         }
 
-        private bool StudentExists(long id)
+        private bool StudentExists(int id)
         {
-            return false;
+            return _studentService.GetById(id) != null;
         }
     }
 }
