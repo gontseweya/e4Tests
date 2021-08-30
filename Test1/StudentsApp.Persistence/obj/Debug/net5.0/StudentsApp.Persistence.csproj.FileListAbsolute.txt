@@ -1,0 +1,35 @@
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\bin\Debug\net5.0\StudentsApp.Persistence.deps.json
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\bin\Debug\net5.0\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\bin\Debug\net5.0\ref\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\bin\Debug\net5.0\StudentsApp.Persistence.pdb
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.AssemblyInfo.cs
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\obj\Debug\net5.0\ref\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\StudentsApp\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.pdb
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\bin\Debug\net5.0\StudentsApp.Persistence.deps.json
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\bin\Debug\net5.0\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\bin\Debug\net5.0\ref\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\bin\Debug\net5.0\StudentsApp.Persistence.pdb
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.AssemblyInfo.cs
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\obj\Debug\net5.0\ref\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\StudentsApp - Copy\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.pdb
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\bin\Debug\net5.0\StudentsApp.Persistence.deps.json
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\bin\Debug\net5.0\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\bin\Debug\net5.0\ref\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\bin\Debug\net5.0\StudentsApp.Persistence.pdb
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.AssemblyInfo.cs
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\obj\Debug\net5.0\ref\StudentsApp.Persistence.dll
+C:\Users\bbdnet2181\source\repos\E4 Strategic\Test1\StudentsApp.Persistence\obj\Debug\net5.0\StudentsApp.Persistence.pdb

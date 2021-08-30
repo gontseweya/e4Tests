@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <StudentId>3</StudentId>
+    <Name>User3</Name>
+    <Surname>User3</Surname>
+    <IDNumber>9311085643333</IDNumber>
+    <CellNumber>0913675673</CellNumber>
+    <EmailAddress>User3@test.com</EmailAddress>
+  </Student>
+  <Student>
+    <StudentId>2</StudentId>
+    <Name>User2</Name>
+    <Surname>User2</Surname>
+    <IDNumber>9311085643673</IDNumber>
+    <CellNumber>0913675673</CellNumber>
+    <EmailAddress>Userqq@test.com</EmailAddress>
+  </Student>
+  <Student>
+    <StudentId>1</StudentId>
+    <Name>User1</Name>
+    <Surname>User1</Surname>
+    <IDNumber>9311085643622</IDNumber>
+    <CellNumber>0913675673</CellNumber>
+    <EmailAddress>editsecond@test.com</EmailAddress>
+  </Student>
+</ArrayOfStudent>
